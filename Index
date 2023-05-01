@@ -1,0 +1,62 @@
+<!DOCTYPE html> 
+ <html lang="en"> 
+ <head> 
+     <title/>R&B Free-Range Chicken & Eggs</title> 
+     <link rel="stylesheet" href="style.css"> 
+ </head> 
+ <body> 
+     <div class="main"> 
+         <div class="navbar"> 
+             <div class="icon"> 
+                
+         <header class="header"> 
+          
+         </a> 
+             </div> 
+  
+             <div class="menu"> 
+                 <ul> 
+                     <li><a href="index.html">HOME</a></li> 
+                     <li><a href="about.html">ABOUT</a></li> 
+                     <li><a href="store.html">STORE</a></li> 
+                     <li><a href="Contact.html">CONTACT</a></li> 
+                 </ul> 
+             </div> 
+ <div class="search"> 
+                 <input class="srch" type="search" name="" placeholder="Type To Search"> 
+                 <a href="#"> <button class="btn">Search</button></a> 
+             </div> 
+         </div>  
+         <div class="content"> 
+             <h1>R&B Free-Range <br><span> Chicken & Eggs</span></h1> 
+                          <h3>Location:Damilag manolo fortich bukidnon<p></p></h3> 
+  
+                 
+                     </div> 
+  
+                 </div> 
+                     </div> 
+                 </div> 
+         </div> 
+                 <script src=""> 
+                 </script> 
+     </div> 
+         </header> 
+     <footer> 
+         <div class="footer-content"> 
+             <ul class="icons"> 
+                         <a href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a> 
+                         <a href="https://www.instagram.com/"><ion-icon name="logo-instagram"></ion-icon></a> 
+             </ul> 
+         </div> 
+                         <div> 
+                                 <p><h6>    The use of the store and other promotional materials are allowed under the fair use clause of the Copyright Law and copyrights and trademarks are held by their respective owners &copy;2023 Poultry native Farm<h5> 
+                      
+                 </footer> 
+          
+          
+          
+          
+          
+ </body> 
+ </html>
