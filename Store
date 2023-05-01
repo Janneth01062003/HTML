@@ -1,0 +1,114 @@
+<!DOCTYPE html> 
+ <html lang="en"> 
+ <head> 
+     <title>Poultry native Farm</title> 
+  
+     <!-- font awesome cdn link  --> 
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> 
+  
+     <!-- custom css file link  --> 
+      <link rel="stylesheet" href="style.css"> 
+  
+ </head> 
+ <body> 
+ <body style="background: rgb(68, 67, 67);  
+ <--  header section starts  --> 
+  
+  
+             <div class="menu"> 
+                 <ul> 
+                     <li><a href="index.html">HOME</a></li> 
+                     <li><a href="about.html">ABOUT</a></li> 
+                     <li><a href="store.html">STORE</a></li> 
+                     <li><a href="Contact.html">CONTACT</a></li> 
+                 </ul> 
+             </div> 
+ </header> 
+  
+  
+ <!-- prodcuts section starts  --> 
+  
+ <</head> 
+ <body> 
+     <div class="container"> 
+  
+         <div class="header"> 
+             <h1>R&B Free-Range Chicken & Eggs</h1> 
+         </div> 
+  
+         <div class="products"> 
+              
+             <div class="product"> 
+                 <div class="image"> 
+                     <img src="5png__1_-removebg-preview.png" alt=""> 
+                 </div> 
+                 <div class="namePrice"> 
+                     <h3>Rooster</h3> 
+                     <span>₱400.00</span> 
+                 </div> 
+                 <p>R&B Free-Range Chicken & Eggs..</p> 
+                 <div class="stars"> 
+                 </div> 
+                 <div class="bay"> 
+                     <button> buy now </button> 
+                 </div> 
+             </div> 
+  
+             <div class="product"> 
+                 <div class="image"> 
+                     <img src="6png.png" alt=""> 
+                 </div> 
+                 <div class="namePrice"> 
+                     <h3>White chicken</h3> 
+                     <span>₱330.00</span> 
+                 </div> 
+                 <p>R&B Free-Range Chicken & Eggs.</p> 
+                 <div class="stars"> 
+                 </div> 
+                 <div class="bay"> 
+                     <button> buy now </button> 
+                 </div> 
+             </div> 
+  
+             <div class="product"> 
+                 <div class="image"> 
+                     <img src="9png.png" alt=""> 
+                 </div> 
+                 <div class="namePrice"> 
+                     <h3>chicken</h3> 
+                     <span>₱300.00</span> 
+                 </div> 
+                 <p>R&B Free-Range Chicken & Eggs.</p> 
+                 <div class="stars"> 
+                 </div> 
+                 <div class="bay"> 
+                     <button> buy now </button> 
+                 </div> 
+             </div> 
+  
+             <div class="product"> 
+                 <div class="image"> 
+                     <img src="12png.png" alt=""> 
+                 </div> 
+                 <div class="namePrice"> 
+                     <h3>Chicken Eggs</h3> 
+                     <span>₱350.00</span> 
+                 </div> 
+                 <p>R&B Free-Range Chicken & Eggs</p> 
+                 <div class="stars"> 
+                 </div><div class="bay"> 
+                     <button> buy now </button> 
+                 </div> 
+             </div> 
+         </div> 
+     </div> 
+      
+     <script src="js/all.min.js"></script> 
+     <script src="js/main.js"></script> 
+  
+         <div class="footer-bottom"> 
+             <p><h5>The use of the store and other promotional materials are allowed under the fair use clause of the Copyright Law and copyrights and trademarks are held by their respective owners &copy;2023 Poultry native Farm<h5> 
+         </footer> 
+  
+ </body> 
+ </html>
